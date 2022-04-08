@@ -63,7 +63,7 @@ public class CheckExact100Position {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//Displaying Welcome Message
-        System.out.println("Welcome to Snake and Ladder Simulator Problem Developed by Tahir Mansuri.");
+        System.out.println("Welcome to Snake and Ladder Simulator Problem Developed by Ashwini Shirsath.");
 
         //Creating Object for Player
         CheckExact100Position player1 = new CheckExact100Position();
