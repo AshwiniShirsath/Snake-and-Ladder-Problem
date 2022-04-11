@@ -118,7 +118,7 @@ public class SnakeLadderGameFor2Players {
 		int checkLadder =0;
 
         //Displaying Welcome Message
-        System.out.println("Welcome to Snake and Ladder Simulator Problem Developed by Tahir Mansuri.");
+        System.out.println("Welcome to Snake and Ladder Simulator Problem.");
 
         //Creating Object for Player
         SnakeLadderGameFor2Players player1 = new SnakeLadderGameFor2Players();
