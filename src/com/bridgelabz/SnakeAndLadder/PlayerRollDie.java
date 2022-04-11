@@ -21,7 +21,7 @@ public class PlayerRollDie {
 
     public static void main(String[] args) {
         //Displaying Welcome Message
-        System.out.println("Welcome to Snake and Ladder Simulator Problem Developed by Tahir Mansuri.");
+        System.out.println("Welcome to Snake and Ladder Simulator Problem.");
 
         //Creating Object for Player
         PlayerRollDie player1 = new PlayerRollDie();
