@@ -63,7 +63,7 @@ public class PlayerPlayUptoPosition100 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//Displaying Welcome Message
-        System.out.println("Welcome to Snake and Ladder Simulator Problem Developed by Tahir Mansuri.");
+        System.out.println("Welcome to Snake and Ladder Simulator Problem.");
 
         //Creating Object for Player
         PlayerPlayUptoPosition100 player1 = new PlayerPlayUptoPosition100();
